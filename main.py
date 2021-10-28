@@ -4,4 +4,5 @@ def my_function(fname):
 
 my_function("Trenisha")
 
-
+def print_hello_world():
+  print("Hello World!")
