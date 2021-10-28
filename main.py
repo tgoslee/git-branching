@@ -4,4 +4,8 @@ def my_function(fname):
 
 my_function("Trenisha")
 
+def squaring(number):
+  print(number*number)
+
+squaring(10)
 
