@@ -1,8 +1,8 @@
 #creating a simple function
 def my_function(fname):
-  print(fname + " Goslee")
+  print(fname + " Pope")
 
-my_function("Trenisha")
+my_function("Jesse")
 
 def getting_to_the_money(rich):
   print(rich + "Min")
