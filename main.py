@@ -8,3 +8,7 @@ def the_one(fname):
 
 the_one("Trenisha")
 
+my_function("lalala")
+print("new changes")
+
+
