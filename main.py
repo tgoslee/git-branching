@@ -2,7 +2,9 @@
 def my_function(fname, lname):
   print(f"{fname} {lname}")
 
+
 my_function("Trenisha", "Goslee")
+
 
 def getting_to_the_money(rich):
   print(rich + "Min")
