@@ -1,7 +1,10 @@
 #creating a simple function
 def my_function(fname):
-  print(fname + " Goslee")
+  return fname + "Goslee"
 
-my_function("Trenisha")
+def the_one(fname):
+  name = my_function(fname)
+  print(f"{name} is the one.")
 
+the_one("Trenisha")
 
