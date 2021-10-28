@@ -4,4 +4,7 @@ def my_function(fname):
 
 my_function("Trenisha")
 
+def faiths_function(fname):
+  print(f'{fname} is awesome!')
+
 
