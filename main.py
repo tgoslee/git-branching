@@ -5,3 +5,7 @@ def my_function(fname):
 my_function("Trenisha")
 
 
+
+def simple_name_concat(first, last):
+  return first + " " + last
+  
