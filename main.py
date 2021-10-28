@@ -1,7 +1,7 @@
 #creating a simple function
 def my_function(fname):
-  print(fname + " Goslee")
+  print(fname + " Lauredan")
 
-my_function("Trenisha")
+print(my_function("Sabrina"))
 
 
